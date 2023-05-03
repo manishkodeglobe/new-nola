@@ -1,5 +1,29 @@
 {
   "current": {
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+        }
+      },
+      "banner": {
+        "type": "banner",
+        "settings": {
+          "slide_1": "shopify:\/\/shop_images\/flatlay-of-jade-face-roller-laying-on-a-grey-stone.jpg",
+          "slide_2": "shopify:\/\/shop_images\/stacked-bracelets.jpg"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "footer_form_paragraph": "Sign up For Early Access on New Releases and Save 10% on Your First Order",
+          "copyRight_Message": "UNHIDE. ALL RIGHTS RESERVED"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
