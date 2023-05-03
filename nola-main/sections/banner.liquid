@@ -16,7 +16,7 @@
           {% else %}
             <div class="flex items-center justify-center">
               <div>
-                <h1 class="text-3xl font-bold py-80">No Images Added in Crauosal</h1>
+                <h1 class="text-3xl font-bold">No Images Added in Crauosal</h1>
               </div>
             </div>
 
@@ -24,7 +24,8 @@
 
         </li>
 
-
+      {% else %}
+        {{ 'lifestyle-2' | placeholder_svg_tag }}
 
       {% endcase %}
 
